@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <!--
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
@@ -18,7 +18,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="index.html" class="title">Materiales</a>
+				<a href="index.html" class="title">Menu Materiales</a>
 				<nav>
 					<ul>
 						<li><a href="index.html">Inicio</a></li>
@@ -26,27 +26,31 @@
 					</ul>
 				</nav>
 			</header>
+			<div>
+				<a href="ordenadores.php">Ordenadores</a>
+			</div>
+			<div>
+				<a href="impresoras.html">Impresoras</a>
+			</div>
+			<div>
+				<a href="monitores.html">Monitores</a>
+			</div>
+			<div>
+				<a href="software.html">Software</a>
+			</div>
 
 		<!-- Wrapper -->
 			<div id="wrapper">
 
 				<!-- Main -->
-					<section id="main" class="wrapper">
-						<div class="inner">
-							<h1 class="major">Materiales</h1>
-							<span class="image fit"><img src="images/pic01.jpg" style="height:500px; width:750px" /></span>
-							<p></p>
-							<p></p>
-						</div>
-					</section>
-
+					
 			</div>
 
 		<!-- Footer -->
 			<footer id="footer" class="wrapper alt">
 				<div class="inner">
 					<ul class="menu">
-						<li>&copy; Gestion de materiales Salesianos. All rights reserved.</li><li>Design:Raul Martinez<br>Daniel Angel</li>
+						<li>&copy; Gestion de materiales Salesianos. All rights reserved.</li><li>Design: Raul Martinez<br>Daniel Angel</li>
 					</ul>
 				</div>
 			</footer>

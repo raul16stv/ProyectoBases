@@ -14,7 +14,8 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
-	<body>		<!-- Sidebar -->
+	<body>	
+	<!-- Sidebar -->
 			<section id="sidebar">
 				<div class="inner">
 					<img src="images/sz.png" style="position:absolute; left:0px; height:56px">				
@@ -46,25 +47,25 @@
 				<!-- One -->
 					<section id="one" class="wrapper style2 spotlights">
 						<section>
-							<a href="materiales.html" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
+							<a href="menumateriales.php" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Materiales</h2>
 									<p>Vea toda la informacion sobre los materiales</p>
 									<ul class="actions">
-										<li><a href="materiales.html" class="button">Informacion</a></li>
+										<li><a href="menumateriales.php" class="button">Informacion</a></li>
 									</ul>
 								</div>
 							</div>
 						</section>
 						<section>
-							<a href="incidencias.html" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
+							<a href="incidencias.php" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Incidencias</h2>
 									<p>Vea toda la informacion sobre las incidencias</p>
 									<ul class="actions">
-										<li><a href="incidencias.html" class="button">Informacion</a></li>
+										<li><a href="incidencias.php" class="button">Informacion</a></li>
 									</ul>
 								</div>
 							</div>
