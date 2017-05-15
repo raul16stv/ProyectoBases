@@ -25,8 +25,13 @@
 				<a href="index.html" class="title">Ordenadores</a>
 				<nav>
 					<ul>
+<<<<<<< HEAD
 						<li><a href="index.php">Inicio</a></li>
 						<li><a href="menumateriales.php">Menu Materiales</a></li>
+=======
+						<li><a href="index.html">Inicio</a></li>
+						<li><a href="menumateriales.html">Menu Materiales</a></li>
+>>>>>>> origin/Rama1
 					</ul>
 				</nav>
 			</header>
@@ -43,7 +48,11 @@
 							<p></p>
 						</div>
 					</section>
+<<<<<<< HEAD
 <form name="ordenadores" id="ordenadores" method="post" action="insordenadores.php">
+=======
+					<form name="ordenadores" id="ordenadores" method="post" action="insordenadores.php">
+>>>>>>> origin/Rama1
 <table align="center" width="50%">
 <tr>
 	<td colspan="2" align="center"><h2> Insertar Informacion</h2></td>
@@ -84,7 +93,12 @@
 <tr>
 	<td colspan="2" align="center">
 		<input type="submit" value="Enviar">
+<<<<<<< HEAD
 			</td>
+=======
+		<a href="veralumnos.php"><input type="button" value="Ver"></a>
+	</td>
+>>>>>>> origin/Rama1
 </tr>
 </table>
 </form>
@@ -92,12 +106,20 @@
 
 			</div>
 			<form action="pagina_busqueda.php" method="get">
+<<<<<<< HEAD
 			<label><h2>Buscar ordenadores: </h2><input type="text" name="buscar"></label>
+=======
+			<label>Buscar ordenador: <input type="text" name="buscar"></label>
+>>>>>>> origin/Rama1
 			<input type="submit" name="enviando" value="Enviar" >
 			</form>
 
 <table>
+<<<<<<< HEAD
 <h2 style="width:40px; height:40px;">Ver ordenador:</h2>
+=======
+<h2 style="width:40px; height:40px;">Ver ordenadores:</h2>
+>>>>>>> origin/Rama1
 <tr><td>Placa</td><td>Procesador</td><td>RAM</td><td>Tarjetas</td><td>IP</td><td>Dominio</td><td>Software</td></tr>
 
 <?php

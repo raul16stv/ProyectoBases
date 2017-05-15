@@ -30,6 +30,7 @@
 				<a href="ordenadores.php">Ordenadores</a>
 			</div>
 			<div>
+<<<<<<< HEAD:menumateriales.php
 				<a href="impresoras.php">Impresoras</a>
 			</div>
 			<div>
@@ -37,6 +38,15 @@
 			</div>
 			<div>
 				<a href="software.php">Software</a>
+=======
+				<a href="impresoras.html">Impresoras</a>
+			</div>
+			<div>
+				<a href="monitores.html">Monitores</a>
+			</div>
+			<div>
+				<a href="software.html">Software</a>
+>>>>>>> origin/Rama1:menumateriales.php
 			</div>
 
 		<!-- Wrapper -->

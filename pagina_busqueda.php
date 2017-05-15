@@ -6,11 +6,19 @@
 <title></title>
 </head>
 
+<<<<<<< HEAD
 <body>
 <?php
 	$busqueda= $_GET["buscar"];
 	include("conexion.php");
 	$consulta="SELECT *FROM ordenadores WHERE placa LIKE '%$busqueda%'";
+=======
+<body
+<?php
+	$busqueda= $_GET["buscar"];
+	include("conexion.php");
+	$consulta="SELECT *FROM ordenadores WHERE placa LIKE '%$busqueda%$'";
+>>>>>>> origin/Rama1
 	
 	$resultados= mysqli_query($conexion, $consulta);
 	
